@@ -15,7 +15,7 @@ Package.onUse(function(api) {
     'check',
     'underscore',
     'reactive-var',
-    'ecmascript@0.10.0'
+    'ecmascript@0.9.0'
   ], ['client', 'server']);
 
   api.use([
